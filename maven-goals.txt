@@ -1,0 +1,34 @@
+Maven Goals som jag använt i projektet. Jag förmodar att Goals och Lifecycle Stages
+är synonyma i denna uppgift. Jag har kört t,ex mvn compile för att bygga, och inte
+letat efter det specifika PlugIns/compiler/compiler::compile goalet för att bygga.
+
+* clean
+    Rensar bort target/ foldern, som innehåller kompilerade class files,
+    testrapporter, javadoc mm. Jag har kört denna innan varje commit så jag
+    inte pushar target/ förrän jag är redo.
+
+* validate
+    Validerar att all nödvändig information för att bygga projektet finns tillänglig. Jag brukar köra
+    denna efter varje edit i pom.xml filen, för att dubbelkolla att jag inte gjort något syntax, eller
+    annat fel.
+
+* compile
+    Kompilerar java källkodsfiler till java class filer och lägger dem i target/...
+
+* test
+    Kör testerna från TestKlasserna
+
+* package
+    Packar ihop bygget i en .jar java archive fil.
+
+* verify
+    Verifierar att all fram tills byggprocessen har gått felfritt. Jag brukar köra denna efter varje
+    ändring så jag kan se att de flesta viktiga stegen körs utan problem.
+
+* install, site & deploy
+    Dessa har jag inte använt mig av, jag har bara provkört install så att det inte ger några errors.
+    Jag vill inte installera programmet lokalt och ska inte heller deploya det till en webbsida så
+    jag har lämnat de andra orörda.
+
+* mvn javadoc:javadoc
+    Kommandot för att låta javadoc pluginet generera dokumentationen.
