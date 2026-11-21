@@ -1,0 +1,11 @@
+dev/stefanmarkan/models/BookCatalog.class
+dev/stefanmarkan/utilities/LoanStatus.class
+dev/stefanmarkan/models/LoanAlreadyExistsException.class
+dev/stefanmarkan/models/Book.class
+dev/stefanmarkan/models/BookNotFoundException.class
+dev/stefanmarkan/models/Loan.class
+dev/stefanmarkan/models/Material.class
+dev/stefanmarkan/models/Customer.class
+dev/stefanmarkan/models/LoanNotFoundException.class
+dev/stefanmarkan/utilities/GenderType.class
+dev/stefanmarkan/ui/Main.class

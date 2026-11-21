@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+dev.stefanmarkan.ui
+dev.stefanmarkan.models
+dev.stefanmarkan.utilities
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/src/main/java = 1795257286000
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/tag-search-index.js = 1795270380368
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/overview-tree.html = 1795270380359
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/module-search-index.js = 1795270380367
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/index.html = 1795270380360
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/package-search-index.js = 1795270380367
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/serialized-form.html = 1795270380338
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/index-all.html = 1795270380373
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/allpackages-index.html = 1795270380367
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/member-search-index.js = 1795270380367
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/overview-summary.html = 1795270380374
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/help-doc.html = 1795270380376
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/element-list = 1795270380323
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/search.html = 1795270380374
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/allclasses-index.html = 1795270380366
+/Users/stefan/Documents/personal/yrgo/ht-26/utv/inl/library/target/reports/apidocs/type-search-index.js = 1795270380367
